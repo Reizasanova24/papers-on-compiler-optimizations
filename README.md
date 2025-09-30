@@ -42,12 +42,15 @@ Type:
 | Peephole optimization | ACM | CACM | J | 1965 | E |
 | Index Register Allocation | ACM | JACM | J | 1966 | E |
 | Analysis of Programs for Parallel Processing | IEEE | TC (TEC) | J | 1966 | O |
+| Program optimization | - | PP | C | 1966 | A, D, E, M, O, S |
 | Object code optimization | ACM | CACM | J | 1969 | A, D, E |
 | Local optimizations | ACM | PLDI (SCO) | C | 1970 | E |
 | Detection and parallel execution of independent instructions | IEEE | TCO | J | 1970 | S |
 | Global common subexpression elimination | ACM | PLDI (SCO) | C | 1970 | D, E, M |
 | The Generation of Optimal Code for Arithmetic Expressions | ACM | JACM | J | 1970 | D, E, M |
 | Control flow analysis | ACM | PLDI (SCO) | C | 1970 | D, E |
+| A Basis for Program Optimization | IFIP | NH | C | 1971 | A, D, E, M, O, S |
+| A catalogue of optimizing transformations | - | PH | C | 1972 | A, D, E, M, O, S |
 | Flow graph reducibility | ACM | STOC | C | 1972 | D |
 | Use-definition chains with applications | Elsevier | COLA (COMLAN) | C | 1972 | E |
 | A global flow analysis algorithm | T&F | JCM | J | 1972 | E |
