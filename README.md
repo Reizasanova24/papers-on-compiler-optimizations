@@ -152,6 +152,7 @@ Type:
 | [The importance of direct dependences for automatic parallelization](https://doi.org/10.1145/55364.55404) | ACM | ICS | C | 1988 | O |
 | [Introducing symbolic problem solving techniques in the dependence testing phases of a vectorizer](https://doi.org/10.1145/55364.55403) | ACM | ICS | C | 1988 | O |
 | [Generating sequential code from parallel code](https://doi.org/10.1145/55364.55421) | ACM | SC | C | 1988 | O |
+| [CRegs: a new kind of memory for referencing arrays and pointers](https://doi.org/10.1109/SUPERC.1988.44673) | ACM | ICS | C | 1988 | - |
 | Advanced loop optimizations for parallel computers | ACM | ICS | C | 1988 | S |
 | An introduction to a formal theory of dependence analysis | Springer | JSC | J | 1988 | S |
 | [Analysis of interprocedural side effects in a parallel programming environment](https://doi.org/10.1016/0743-7315(88)90011-1) | ACM | ICS | C | 1988 | S |
