@@ -59,6 +59,7 @@ Type:
 | [Testing flow graph reducibility](https://doi.org/10.1145/800125.804040) | ACM | STOC | C | 1973 | A |
 | [A unified approach to global program optimization](https://doi.org/10.1145/512927.512945) | ACM | POPL | C | 1973 | A, D, E, M, O, S |
 | Fast algorithms for the elimination of common subexpressions | Springer | Acta Inf. | J | 1973 | A, D, E, O |
+| [Interprocedural Analysis and the Information derived by it](https://doi.org/10.1007/BF00264216) | Springer | Prog. Meth. | J | 1974 | - |
 | [Register allocation via usage counts](https://doi.org/10.1145/361179.361201) | ACM | CACM | J | 1974 | A |
 | [Analysis of structured programs](https://doi.org/10.1145/800125.804055) | ACM | STOC | C | 1974 | D |
 | [Characterizations of Reducible Flow Graphs](https://doi.org/10.1145/321832.321835) | ACM | JACM | J | 1974 | D, E |
@@ -127,6 +128,7 @@ Type:
 | Distributed execution of functional programs using serial combinators | IEEE | TCO | J | 1985 | S |
 | Strictness analysis-a practical approach | Springer | FPCA | C | 1985 | S |
 | [A linear algorithm for finding dominators in flow graphs and related problems](https://doi.org/10.1145/22145.22166) | ACM | STOC | C | 1985 | E, M, O |
+| [The impact of interprocedural analysis and optimization in the Rn programming environment](https://doi.org/10.1145/6465.6489) | ACM | TOPLAS (LOPES) | C | 1986 | - |
 | Efficient instruction scheduling for a pipelined architecture | ACM | PLDI (SCC) | C | 1986 | A |
 | [Efficient symbolic analysis of programs](https://doi.org/https://doi.org/10.1016/0022-0000(86)90031-0) | ACM | JCSS | J | 1986 | A |
 | [Graph-Based Algorithms for Boolean Function Manipulation](https://doi.org/10.1109/TC.1986.1676819) | IEEE | TC | J | 1986 | D |
@@ -148,6 +150,7 @@ Type:
 | Strategies for cache and local memory management by global program transformation | Springer | ICS | C | 1987 | S |
 | [The program dependence graph and its use in optimization](https://doi.org/10.1145/24039.24041) | ACM | TOPLAS | J | 1987 | A, E, M, O |
 | [Automatic translation of Fortran programs to vector form](https://doi.org/10.1145/41625.41631) | ACM | TOPLAS | J | 1987 | D, O, S |
+| [Efficient and correct execution of parallel programs that share memory](https://doi.org/10.1145/42190.42277) | ACM | TOPLAS (LOPES) | C | 1988 | - |
 | [On the control dependence in the program dependence graph](https://doi.org/10.1145/322609.322862) | ACM | CSC | C | 1988 | - |
 | [Resource requirements of dataflow programs](https://dl.acm.org/doi/10.5555/52400.52417) | ACM | ISCA | C | 1988 | - |
 | [Incremental data flow analysis via dominator and attribute update](http://dx.doi.org/10.1145/73560.73584) | ACM | POPL | C | 1988 | - |
@@ -217,6 +220,7 @@ Type:
 | [Analysis of pointers and structures](https://doi.org/10.1145/93542.93585) | ACM | PLDI | C | 1990 | A, E |
 | Loop distribution with arbitrary control flow | ACM | PLDI | C | 1990 | O, S |
 | [Graph coloring register allocation for processors with multi-register operands](https://doi.org/10.1145/93548.93552) | ACM | PLDI | C | 1990 | A, E |
+| [On the adequacy of dependence-based representations for programs with heaps](https://doi.org/10.1007/3-540-54415-1_55) | Springer | TACS | C | 1991 | - |
 | [Program optimization and parallelization using idioms](http://dx.doi.org/10.1145/99583.99597) | ACM | POPL | C | 1991 | - |
 | [Automatic construction of sparse data flow evaluation graphs](http://dx.doi.org/10.1145/99583.99594) | ACM | POPL | C | 1991 | - |
 | [Compiler optimizations for Fortran D on MIMD distributed-memory machines](https://doi.org/10.1145/125826.125886) | ACM | SC | C | 1991 | - |
@@ -243,6 +247,9 @@ Type:
 | [Practical dependence testing](https://doi.org/10.1145/113445.113448) | ACM | PLDI | C | 1991 | A, O |
 | [Procedure merging with instruction caches](https://doi.org/10.1145/113446.113452) | ACM | PLDI | C | 1991 | A, S |
 | [An experiment with inline substitution](https://doi.org/10.1002/spe.4380210604) | Wiley | SPE | J | 1991 | E, S |
+| [The transitive closure of control dependence: The iterated join](https://doi.org/10.1145/151333.151337) | ACM | TOPLAS (LOPLAS) | J | 1992 | - |
+| [Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs](https://doi.org/10.1145/151640.151644) | ACM | TOPLAS (LOPLAS) | J | 1992 | - |
+| [Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs](https://doi.org/10.1145/143095.143138) | ACM | PLDI | C | 1992 | - |
 | [Generalized dominators and post-dominators](http://dx.doi.org/10.1145/143165.143216) | ACM | POPL | C | 1992 | - |
 | [A comprehensive approach to parallel data flow analysis](https://doi.org/10.1145/143369.143415) | ACM | ICS | C | 1992 | A |
 | Integrating scalar optimization and parallelization | Springer | LCPC | C | 1992 | A |
@@ -269,6 +276,10 @@ Type:
 | [The power test for data dependence](https://doi.org/10.1109/71.159042) | IEEE | TCO | J | 1992 | A, S |
 | [Eliminating branches using a superoptimizer and the GNU C compiler](https://doi.org/10.1145/143095.143146) | ACM | PLDI | C | 1992 | E, S |
 | [Design and evaluation of a compiler algorithm for prefetching](https://doi.org/10.1145/143371.143488) | ACM | ASPLOS | C | 1992 | D, O |
+| [Data dependence and data-flow analysis of arrays](https://doi.org/10.1007/3-540-57502-2_63) | Springer | LCPC | C | 1992 | - |
+| [Advanced compiler optimizations for sparse computations](https://doi.org/10.1145/169627.169765) | ACM | SC | C | 1993 | - |
+| [Access normalization: loop restructuring for NUMA computers](https://doi.org/10.1145/161541.159766) | ACM | TOCS | J | 1993 | - |
+| [On the conversion of indirect to direct recursion](https://doi.org/10.1145/176454.176510) | ACM | TOPLAS (LOPLAS) | J | 1993 | - |
 | [A practical data flow framework for array reference analysis and its use in optimizations](http://dx.doi.org/10.1145/155090.155097) | ACM | PLDI | C | 1993 | - |
 | [Using lifetime predictors to improve memory allocation performance](http://dx.doi.org/10.1145/155090.155108) | ACM | PLDI | C | 1993 | - |
 | [Data flow analysis for parallel programs](https://doi.org/10.1145/170791.170853) | ACM | CSC | C | 1993 | - |
