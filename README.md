@@ -1,7 +1,9 @@
 # Papers on Compiler Optimizations: Analysis and Transformations (1952-1994)
 
 > [!NOTE]
-> This repository is updated periodically. Contributions are welcome!
+> This repository is updated periodically.
+> The papers up to 1994 should be almost complete. The following years will arrive soon, incrementally.
+> **Contributions are welcome!**
 
 This repository curates a _chronologically_ sorted list of influential papers on compiler optimization, from the seminal works of 1952 through the advanced techniques of 1994. It's an essential resource for students, researchers, and engineers seeking to understand the foundational and critical advancements in compiler design, analysis, and optimization techniques.
 The paper list is provided in two convenient formats:
@@ -183,6 +185,7 @@ Type:
 | [Perfect pipelining: A new loop parallelization technique](https://doi.org/10.1007/3-540-19027-9_15) | Springer | ESOP | C | 1988 | A, S |
 | Code scheduling and register allocation in large basic blocks | ACM | SC | C | 1988 | A, E |
 | [Interprocedural side-effect analysis in linear time](https://doi.org/10.1145/62116.62125) | ACM | PLDI | C | 1988 | A, E, O |
+| [Interprocedural analysis vs. procedure integration](https://doi.org/10.1016/0020-0190(89)90014-8}) | Elsevier | IPL | J | 1989 | - |
 | Unified management of registers and cache using liveness and cache bypass | ACM | PLDI | C | 1989 | A |
 | A new algorithm for composite hoisting and strength reduction optimisation | T&F | JCM | J | 1989 | E |
 | [Interprocedual data flow testing](https://dl.acm.org/doi/10.1145/75309.75327) | ACM | SEN | C | 1989 | - |
@@ -201,6 +204,7 @@ Type:
 | [Spill code minimization techniques for optimizing compliers](https://doi.org/10.1145/73141.74841) | ACM | PLDI | C | 1989 | A, E |
 | [Customization: Optimizing compiler technology for SELF, a dynamically-typed OOP language](https://doi.org/10.1145/74818.74831)  | ACM | PLDI | C | 1989 | O, S |
 | [An efficient method of computing static single assignment form](https://doi.org/10.1145/75277.75280) | ACM | POPL | C | 1989 | A, O |
+| [Vectorization of tree traversals](https://doi.org/10.1016/0021-9991(90)90230-X) | Elsevier | JCP | J | 1990 | - |
 | [Loop displacement: an approach for transforming and scheduling loops for parallel execution](https://doi.org/10.1109/SUPERC.1990.130046) | ACM | SC | C | 1990 | - |
 | [Experience with interprocedural analysis of array side effects](https://dl.acm.org/doi/10.5555/110382.110626) | ACM | SC | C | 1990 | - |
 | [An approach to ordering optimizing transformations](https://doi.org/10.1145/99163.99179) | ACM | PPoPP | C | 1990 | A |
@@ -220,6 +224,7 @@ Type:
 | [Analysis of pointers and structures](https://doi.org/10.1145/93542.93585) | ACM | PLDI | C | 1990 | A, E |
 | Loop distribution with arbitrary control flow | ACM | PLDI | C | 1990 | O, S |
 | [Graph coloring register allocation for processors with multi-register operands](https://doi.org/10.1145/93548.93552) | ACM | PLDI | C | 1990 | A, E |
+| [On optimal parallelization of arbitrary loops](https://doi.org/10.1016/0743-7315(91)90118-S) | Elsevier | JPDC | J | 1991 | - |
 | [On the adequacy of dependence-based representations for programs with heaps](https://doi.org/10.1007/3-540-54415-1_55) | Springer | TACS | C | 1991 | - |
 | [Program optimization and parallelization using idioms](http://dx.doi.org/10.1145/99583.99597) | ACM | POPL | C | 1991 | - |
 | [Automatic construction of sparse data flow evaluation graphs](http://dx.doi.org/10.1145/99583.99594) | ACM | POPL | C | 1991 | - |
