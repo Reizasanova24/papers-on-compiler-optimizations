@@ -224,6 +224,7 @@ Type:
 | [Analysis of pointers and structures](https://doi.org/10.1145/93542.93585) | ACM | PLDI | C | 1990 | A, E |
 | Loop distribution with arbitrary control flow | ACM | PLDI | C | 1990 | O, S |
 | [Graph coloring register allocation for processors with multi-register operands](https://doi.org/10.1145/93548.93552) | ACM | PLDI | C | 1990 | A, E |
+| [A data locality optimizing algorithm](http://dx.doi.org/10.1145/113445.113449) | ACM | PLDI | C | 1991 | - |
 | [On optimal parallelization of arbitrary loops](https://doi.org/10.1016/0743-7315(91)90118-S) | Elsevier | JPDC | J | 1991 | - |
 | [On the adequacy of dependence-based representations for programs with heaps](https://doi.org/10.1007/3-540-54415-1_55) | Springer | TACS | C | 1991 | - |
 | [Program optimization and parallelization using idioms](http://dx.doi.org/10.1145/99583.99597) | ACM | POPL | C | 1991 | - |
