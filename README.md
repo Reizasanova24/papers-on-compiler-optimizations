@@ -77,6 +77,7 @@ Type:
 | [A Fast and Usually Linear Algorithm for Global Flow Analysis](https://doi.org/10.1145/321921.321939) | ACM | JACM | J | 1976 | E, O |
 | [Code generation for expressions with common subexpressions](https://doi.org/10.1145/321992.322001) | ACM | POPL | C | 1976 | E, S |
 | [Global data flow analysis and iterative algorithms](https://doi.org/10.1145/321921.321938) | ACM | JACM | J | 1976 | E, O |
+| [Compiler Analysis of the Value Ranges for Variables](https://doi.org/10.1109/TSE.1977.231133) | IEEE | TSE | J | 1977 | - |
 | [On Live-Dead Analysis for Global Data Flow Problems](https://doi.org/10.1145/322017.322027) | ACM | JACM | J | 1977 | A |
 | [Symbolic evaluation and the global value graph](https://doi.org/10.1145/512950.512961) | ACM | POPL | C | 1977 | A |
 | [High-level data flow analysis](https://doi.org/10.1145/359842.359849) | ACM | CACM | J | 1977 | A |
@@ -87,6 +88,7 @@ Type:
 | [Monotone data flow analysis frameworks](https://doi.org/10.1007/BF00290339) | Springer | Acta Inf. | J | 1977 | A, D, E, O |
 | Program Improvement by Source-to-Source Transformation | ACM | CACM | J | 1977 | D, O |
 | [An analysis of inline substitution for a structured programming language](https://doi.org/10.1145/359810.359830) | ACM | CACM | J | 1977 | M, S |
+| [Program optimization using invariants](https://doi.org/10.1109/TSE.1978.233858) | IEEE | TSE | J | 1978 | - |
 | [A new method for compiler code generation](https://doi.org/10.1145/512760.512785) | ACM | POPL | C | 1978 | D |
 | [A practical interprocedural data flow analysis algorithm](https://doi.org/10.1145/359588.359596) | ACM | CACM | J | 1978 | A, D, E, O |
 | [Data Flow Analysis for Procedural Languages](https://doi.org/10.1145/322123.322135) | ACM | JACM | J | 1979 | A |
