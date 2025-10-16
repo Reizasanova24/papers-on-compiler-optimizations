@@ -67,6 +67,7 @@ Type:
 | [Characterizations of Reducible Flow Graphs](https://doi.org/10.1145/321832.321835) | ACM | JACM | J | 1974 | D, E |
 | [The parallel execution of DO loops](https://doi.org/10.1145/360827.360844) | ACM | CACM | J | 1974 | D, O |
 | [Interprocedural Data Flow Analysis](https://doi.org/10.1145/567446.567455) | - | IFIP | J | 1974 | D, O |
+| [Application of lattice algebra to loop optimization](https://doi.org/10.1145/512976.512977) | ACM | POPL | C | 1975 | - |
 | [Program optimization - theory and practice](https://doi.org/10.1145/390015.808407) | ACM | PLDI (SCC) | C | 1975 | - |
 | Time and parallel processor bounds for linear recurrence systems | IEEE | TCO | J | 1975 | S |
 | [A simple algorithm for global data flow analysis problems](https://doi.org/10.1145/512927.512946) | SIAM | SICOMP | J | 1975 | A, E, O |
@@ -112,6 +113,7 @@ Type:
 | [Reduction of operator strength](https://doi.org/10.1145/359863.359888) | NJ | Program flow analysis | J | 1981 | A, E, S |
 | [Dependence graphs and compiler optimizatlons](https://doi.org/10.1145/567532.567555) | ACM | POPL | C | 1981 | O, S |
 | [On the performance enhancement of paging systems through program analysis and transformations](https://doi.org/10.1109/TC.1981.1675792) | IEEE | TCO | J | 1981 | D, S |
+| [Using peephole optimization on intermediate code](https://doi.org/10.1145/357153.357155) | ACM | TOPLAS | J | 1982 | - |
 | [Optimizing delayed branches](https://doi.org/10.1145/1014194.800941) | ACM | MICRO | W | 1982 | D |
 | A composite hoisting-strength reduction transformation for global program optimization part i | T&F | JCM | J | 1982 | E |
 | [Optimization of range checking](https://doi.org/10.1145/800230.806986) | ACM | PLDI (SCC) | C | 1982 | E |
@@ -119,6 +121,7 @@ Type:
 | [Experience with the SETL optimizer](https://doi.org/10.1145/357195.357197) | ACM | TOPLAS | J | 1983 | S |
 | [Postpass Code Optimization of Pipeline Constraints](https://doi.org/10.1145/2166.357217) | ACM | TOPLAS | J | 1983 | A, E |
 | [Conversion of control dependence to data dependence](https://doi.org/10.1145/567067.567085) | ACM | POPL | C | 1983 | O, S |
+| [Code selection through object code optimization](https://doi.org/10.1145/1780.1783) | ACM | TOPLAS | J | 1984 | - |
 | [Register allocation and exhaustive peephole optimization](https://doi.org/10.1145/364995.365000) | Wiley | SPE | J | 1984 | E |
 | [Automatic generation of peephole optimizations](https://doi.org/10.1145/364995.365000) | Springer | CC | C | 1984 | E |
 | Analysis of interprocedural side effects in a parallel programming environment | Springer | ICSP | C | 1984 | O |
@@ -128,10 +131,13 @@ Type:
 | [Register allocation by priority-based coloring](https://doi.org/10.1145/502949.502896) | ACM | PLDI (SCC) | C | 1984 | A, E, O |
 | Automatic loop interchange | ACM | PLDI (SCC) | C | 1984 | O, S |
 | Efficient computation of flow insensitive interprocedural summary information | ACM | PLDI (SCC) | C | 1984 | A, O |
+| [Program transformations in a denotational setting](https://doi.org/10.1145/3916.3917) | ACM | TOPLAS | J | 1985 | - |
 | [On linearizing parallel code](https://doi.org/10.1145/318593.318636) | ACM | POPL | C | 1985 | O |
 | Distributed execution of functional programs using serial combinators | IEEE | TCO | J | 1985 | S |
 | Strictness analysis-a practical approach | Springer | FPCA | C | 1985 | S |
 | [A linear algorithm for finding dominators in flow graphs and related problems](https://doi.org/10.1145/22145.22166) | ACM | STOC | C | 1985 | E, M, O |
+| [Efficient compilation of linear recursive functions into object level loops](https://doi.org/10.1145/12276.13332) | ACM | PLDI (SCC) | C | 1985 | - |
+| [Advanced compiler optimizations for supercomputers](https://doi.org/10.1145/7902.7904) | ACM | CACM | J | 1986 | - |
 | [The impact of interprocedural analysis and optimization in the Rn programming environment](https://doi.org/10.1145/6465.6489) | ACM | TOPLAS (LOPES) | C | 1986 | - |
 | Efficient instruction scheduling for a pipelined architecture | ACM | PLDI (SCC) | C | 1986 | A |
 | [Efficient symbolic analysis of programs](https://doi.org/https://doi.org/10.1016/0022-0000(86)90031-0) | ACM | JCSS | J | 1986 | A |
@@ -154,6 +160,7 @@ Type:
 | Strategies for cache and local memory management by global program transformation | Springer | ICS | C | 1987 | S |
 | [The program dependence graph and its use in optimization](https://doi.org/10.1145/24039.24041) | ACM | TOPLAS | J | 1987 | A, E, M, O |
 | [Automatic translation of Fortran programs to vector form](https://doi.org/10.1145/41625.41631) | ACM | TOPLAS | J | 1987 | D, O, S |
+| [Safety consideration for storage allocation optimizations](https://doi.org/10.1145/53990.53991) | ACM | PLDI | C | 1988 | - |
 | [Efficient and correct execution of parallel programs that share memory](https://doi.org/10.1145/42190.42277) | ACM | TOPLAS (LOPES) | C | 1988 | - |
 | [On the control dependence in the program dependence graph](https://doi.org/10.1145/322609.322862) | ACM | CSC | C | 1988 | - |
 | [Resource requirements of dataflow programs](https://dl.acm.org/doi/10.5555/52400.52417) | ACM | ISCA | C | 1988 | - |
@@ -187,6 +194,7 @@ Type:
 | [Perfect pipelining: A new loop parallelization technique](https://doi.org/10.1007/3-540-19027-9_15) | Springer | ESOP | C | 1988 | A, S |
 | Code scheduling and register allocation in large basic blocks | ACM | SC | C | 1988 | A, E |
 | [Interprocedural side-effect analysis in linear time](https://doi.org/10.1145/62116.62125) | ACM | PLDI | C | 1988 | A, E, O |
+| [A technique for summarizing data access and its use in parallelism enhancing transformations](https://doi.org/10.1145/74818.74822) | ACM | PLDI | C | 1989 | - |
 | [Interprocedural analysis vs. procedure integration](https://doi.org/10.1016/0020-0190(89)90014-8}) | Elsevier | IPL | J | 1989 | - |
 | Unified management of registers and cache using liveness and cache bypass | ACM | PLDI | C | 1989 | A |
 | A new algorithm for composite hoisting and strength reduction optimisation | T&F | JCM | J | 1989 | E |
@@ -206,7 +214,9 @@ Type:
 | [Spill code minimization techniques for optimizing compliers](https://doi.org/10.1145/73141.74841) | ACM | PLDI | C | 1989 | A, E |
 | [Customization: Optimizing compiler technology for SELF, a dynamically-typed OOP language](https://doi.org/10.1145/74818.74831)  | ACM | PLDI | C | 1989 | O, S |
 | [An efficient method of computing static single assignment form](https://doi.org/10.1145/75277.75280) | ACM | POPL | C | 1989 | A, O |
-| [Vectorization of tree traversals](https://doi.org/10.1016/0021-9991(90)90230-X) | Elsevier | JCP | J | 1990 | - |
+| [The program dependence graph in a software development environment](https://doi.org/10.1007/3-540-52592-0_76) | ACM | TOPLAS | J | 1990 | - |
+| [Compiler techniques for data partitioning of sequentially iterated parallel loops](https://doi.org/10.1145/79147.79159) | ACM | SC | C | 1990 | - |
+| [Vectorization of tree traversals](https://doi.org/10.1145/77726.255156) | Elsevier | JCP | J | 1990 | - |
 | [Loop displacement: an approach for transforming and scheduling loops for parallel execution](https://doi.org/10.1109/SUPERC.1990.130046) | ACM | SC | C | 1990 | - |
 | [Experience with interprocedural analysis of array side effects](https://dl.acm.org/doi/10.5555/110382.110626) | ACM | SC | C | 1990 | - |
 | [An approach to ordering optimizing transformations](https://doi.org/10.1145/99163.99179) | ACM | PPoPP | C | 1990 | A |
@@ -255,6 +265,10 @@ Type:
 | [Practical dependence testing](https://doi.org/10.1145/113445.113448) | ACM | PLDI | C | 1991 | A, O |
 | [Procedure merging with instruction caches](https://doi.org/10.1145/113446.113452) | ACM | PLDI | C | 1991 | A, S |
 | [An experiment with inline substitution](https://doi.org/10.1002/spe.4380210604) | Wiley | SPE | J | 1991 | E, S |
+| [Access normalization: loop restructuring for NUMA compilers](https://doi.org/10.1145/143371.143541) | ACM | ASPLOS | C | 1991 | - |
+| [Non-unimodular transformations of nested loops](https://doi.org/10.1109/SUPERC.1992.236692) | ACM | SC | C | 1992 | - |
+| [A framework for interprocedural data flow analysis in the presence of pointers](https://doi.org/10.1145/143103.143132) | ACM | PLDI | C | 1992 | - |
+| [A program integration algorithm that accommodates semantics-preserving transformations](https://doi.org/10.1145/131736.131756) | ACM | TOSEM | J | 1992 | - |
 | [The transitive closure of control dependence: The iterated join](https://doi.org/10.1145/151333.151337) | ACM | TOPLAS (LOPLAS) | J | 1992 | - |
 | [Abstract description of pointer data structures: an approach for improving the analysis and optimization of imperative programs](https://doi.org/10.1145/151640.151644) | ACM | TOPLAS (LOPLAS) | J | 1992 | - |
 | [Abstractions for recursive pointer data structures: improving the analysis and transformation of imperative programs](https://doi.org/10.1145/143095.143138) | ACM | PLDI | C | 1992 | - |
@@ -312,6 +326,9 @@ Type:
 | [Automatic array privatization](https://dl.acm.org/doi/10.5555/645671.665384) | Springer | LCPC | W | 1993 | O, S |
 | [Interprocedural modification side effect analysis with pointer aliasing](https://doi.org/10.1145/155090.155102) | ACM | PLDI | C | 1993 | M, S |
 | [Branch prediction for free](https://doi.org/10.1145/155090.155119) | ACM | PLDI | C | 1993 | A, M |
+| [Enabling unimodular transformations](https://doi.org/10.1109/SUPERC.1994.344341) | ACM | SC | C | 1994 | - |
+| [Compiler optimizations for improving data locality](https://doi.org/10.1145/195470.195557) | ACM | ASPLOS | C | 1994 | - |
+| [The revival transformation](https://doi.org/10.1145/174675.178043) | ACM | PLDI | C | 1994 | - |
 | [The range test: a dependence test for symbolic, non-linear expressions](https://dl.acm.org/doi/10.5555/602770.602858) | ACM | SC | C | 1994 | - |
 | [Link-time optimization of address calculation on a 64-bit architecture](https://doi.org/10.1145/178243.178248) | ACM | PLDI | C | 1994 | A |
 | [Effective partial redundancy elimination](https://doi.org/10.1145/178243.178257) | ACM | PLDI | C | 1994 | A |
